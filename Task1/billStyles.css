@@ -1,0 +1,159 @@
+﻿body {
+    margin: 0;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+/*black labels with white text*/
+.label {
+    color: white;
+    font-weight: bold;
+    background-color: #111;
+    text-align: center;
+    position: relative;
+    margin: auto auto;
+    line-height: 25px;
+}
+
+/*-----------TOP SECTION ------------*/
+
+.top__section {
+    margin-top: 25px;
+}
+
+.leftTop__block, .rightTop__block {
+    margin-bottom: 3rem;
+}
+
+.logo {
+    width: 100px;
+}
+
+.top__section > .right__container {
+    text-align: center;
+    font-size: small;
+}
+
+.top__table {
+    line-height: 8px;
+    width: 100%;
+}
+
+.arrow__pointer {
+    width: 50%;
+    height: 40px;
+    background: #111;
+    position: relative;
+    text-align: center;
+}
+
+    .arrow__pointer::before {
+        content: '';
+        position: absolute;
+        right: -20px;
+        bottom: 0;
+        width: 0;
+        height: 0;
+        z-index: 1;
+        border-left: 20px solid #111;
+        border-top: 20px solid transparent;
+        border-bottom: 20px solid transparent;
+    }
+
+    .arrow__pointer > p {
+        position: absolute;
+        padding-top: 8px;
+        left: 25%;
+        font-size: medium;
+    }
+
+
+.amount__tag {
+    width: 50%;
+    height: 40px;
+    background: #d8d8d8;
+    position: relative;
+}
+
+    .amount__tag > p {
+        position: absolute;
+        padding-top: 8px;
+        right: 35%;
+        font-size: medium;
+    }
+
+.gray__container {
+    background-color: #d8d8d8;
+}
+
+    .gray__container > p {
+        font-weight: bold;
+    }
+
+    .gray__container > .remit {
+        text-align: left;
+        margin-left: 100px;
+        font-size: medium;
+    }
+
+.leftBottom__block, .rightBottom__block {
+    margin-bottom: 3rem;
+}
+
+/*--------MIDDLE SECTION---------*/
+.middle__section {
+    text-align: center;
+}
+
+.label__inverted {
+    background-color: white;
+    color: black;
+    margin: 0;
+}
+
+/*------------BOTTOM SECTION ---------*/
+.bottom__table {
+    border: 3px solid gray;
+    text-align: center;
+    font-size: 12px;
+    width: 100%;
+}
+
+.account__summary {
+    border: 3px solid gray;
+    font-size: 12px;
+}
+
+
+    .account__summary > .label {
+        padding-bottom: .5px;
+        margin-bottom: 60px;
+    }
+
+.line__height {
+    line-height: 0;
+}
+
+.white__space {
+    padding-bottom: 7.90rem;
+}
+
+.rates {
+    font-size: 12px;
+    border: 3px solid gray;
+    padding: 0 10px 0;
+}
+
+.ratesTable {
+    width: 100%;
+}
+
+.stormTable {
+    width: 50%;
+    margin-top: 0;
+}
+
+.footer {
+    font-size: medium;
+    font-weight: 600;
+}

@@ -1,0 +1,7 @@
+C:\Users\Ivan Hernandez\Desktop\Interview Project\Interview Project\Task2\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\Ivan Hernandez\Desktop\Interview Project\Interview Project\Task2\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\Ivan Hernandez\Desktop\Interview Project\Interview Project\Task2\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\Ivan Hernandez\Desktop\Interview Project\Interview Project\Task2\ConsoleUI\obj\Debug\Task2.csprojAssemblyReference.cache
+C:\Users\Ivan Hernandez\Desktop\Interview Project\Interview Project\Task2\ConsoleUI\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Hernandez\Desktop\Interview Project\Interview Project\Task2\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\Ivan Hernandez\Desktop\Interview Project\Interview Project\Task2\ConsoleUI\obj\Debug\ConsoleUI.pdb
